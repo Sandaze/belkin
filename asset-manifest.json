@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/belkin/static/css/main.9569ee71.chunk.css",
-    "main.js": "/belkin/static/js/main.fc8c5f67.chunk.js",
-    "main.js.map": "/belkin/static/js/main.fc8c5f67.chunk.js.map",
+    "main.js": "/belkin/static/js/main.ae976c86.chunk.js",
+    "main.js.map": "/belkin/static/js/main.ae976c86.chunk.js.map",
     "runtime-main.js": "/belkin/static/js/runtime-main.a97596e7.js",
     "runtime-main.js.map": "/belkin/static/js/runtime-main.a97596e7.js.map",
     "static/js/2.077975c5.chunk.js": "/belkin/static/js/2.077975c5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a97596e7.js",
     "static/js/2.077975c5.chunk.js",
     "static/css/main.9569ee71.chunk.css",
-    "static/js/main.fc8c5f67.chunk.js"
+    "static/js/main.ae976c86.chunk.js"
   ]
 }
