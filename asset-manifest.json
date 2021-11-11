@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/belkin/static/css/main.e31e1be9.chunk.css",
-    "main.js": "/belkin/static/js/main.39d59cbe.chunk.js",
-    "main.js.map": "/belkin/static/js/main.39d59cbe.chunk.js.map",
+    "main.js": "/belkin/static/js/main.dc01f40c.chunk.js",
+    "main.js.map": "/belkin/static/js/main.dc01f40c.chunk.js.map",
     "runtime-main.js": "/belkin/static/js/runtime-main.d1089754.js",
     "runtime-main.js.map": "/belkin/static/js/runtime-main.d1089754.js.map",
-    "static/js/2.61d14280.chunk.js": "/belkin/static/js/2.61d14280.chunk.js",
-    "static/js/2.61d14280.chunk.js.map": "/belkin/static/js/2.61d14280.chunk.js.map",
+    "static/js/2.0a7d965e.chunk.js": "/belkin/static/js/2.0a7d965e.chunk.js",
+    "static/js/2.0a7d965e.chunk.js.map": "/belkin/static/js/2.0a7d965e.chunk.js.map",
     "static/js/3.e2a3f40d.chunk.js": "/belkin/static/js/3.e2a3f40d.chunk.js",
     "static/js/3.e2a3f40d.chunk.js.map": "/belkin/static/js/3.e2a3f40d.chunk.js.map",
     "index.html": "/belkin/index.html",
     "static/css/main.e31e1be9.chunk.css.map": "/belkin/static/css/main.e31e1be9.chunk.css.map",
-    "static/js/2.61d14280.chunk.js.LICENSE.txt": "/belkin/static/js/2.61d14280.chunk.js.LICENSE.txt"
+    "static/js/2.0a7d965e.chunk.js.LICENSE.txt": "/belkin/static/js/2.0a7d965e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1089754.js",
-    "static/js/2.61d14280.chunk.js",
+    "static/js/2.0a7d965e.chunk.js",
     "static/css/main.e31e1be9.chunk.css",
-    "static/js/main.39d59cbe.chunk.js"
+    "static/js/main.dc01f40c.chunk.js"
   ]
 }
