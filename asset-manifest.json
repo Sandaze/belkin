@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/belkin/static/css/main.2519d427.chunk.css",
+    "main.css": "/belkin/static/css/main.53d2664a.chunk.css",
     "main.js": "/belkin/static/js/main.fa4e33bd.chunk.js",
     "main.js.map": "/belkin/static/js/main.fa4e33bd.chunk.js.map",
     "runtime-main.js": "/belkin/static/js/runtime-main.a8223770.js",
@@ -10,13 +10,13 @@
     "static/js/3.e658e841.chunk.js": "/belkin/static/js/3.e658e841.chunk.js",
     "static/js/3.e658e841.chunk.js.map": "/belkin/static/js/3.e658e841.chunk.js.map",
     "index.html": "/belkin/index.html",
-    "static/css/main.2519d427.chunk.css.map": "/belkin/static/css/main.2519d427.chunk.css.map",
+    "static/css/main.53d2664a.chunk.css.map": "/belkin/static/css/main.53d2664a.chunk.css.map",
     "static/js/2.50bdd237.chunk.js.LICENSE.txt": "/belkin/static/js/2.50bdd237.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8223770.js",
     "static/js/2.50bdd237.chunk.js",
-    "static/css/main.2519d427.chunk.css",
+    "static/css/main.53d2664a.chunk.css",
     "static/js/main.fa4e33bd.chunk.js"
   ]
 }
